@@ -15,7 +15,7 @@
   <h2>Setup Instructions</h2>
     <ol>
         <li>Clone the repository to your local machine:
-            <pre><code>git clone https://github.com/your-username/task-management-api.git</code></pre>
+            <pre><code>git clone https://github.com/BereketZz/Orinson-Tech-task2.git</code></pre>
         </li>
         <li>Install the required dependencies:
             <pre><code>npm install</code></pre>
