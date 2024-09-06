@@ -34,6 +34,8 @@
    <h2>API Endpoints</h2>
     <p>The following API endpoints are available for managing tasks:</p>
     <ul>
+        <li><strong>POST /auth/register</strong> - new user register</li>
+        <li><strong>POST /auth/login</strong> - user login</li>
         <li><strong>POST /task/create</strong> - Create a new task. Requires the user to be authenticated.</li>
         <li><strong>GET /task/get</strong> - Get all tasks for the authenticated user.</li>
         <li><strong>GET /task/get/:id</strong> - Get a specific task by ID. Requires the user to be authenticated.</li>
