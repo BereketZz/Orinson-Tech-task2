@@ -1,0 +1,22 @@
+{
+  "name": "orinson-tech-task2",
+  "version": "1.0.0",
+  "description": "orinson-tech-task2 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+
+  },
+  "author": "Bereket Zewde",
+  "license": "ISC",
+  "dependencies": {
+    "argon2": "^0.41.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "joi": "^17.13.3",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.6.1",
+    "nodemon": "^3.1.4"
+  }
+}
